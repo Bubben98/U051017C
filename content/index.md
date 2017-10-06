@@ -1,1 +1,1 @@
-featured_image = "../images/image.jpg"
+featured_image = "/images/image.jpg"
