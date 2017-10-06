@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "Rubens Site"
 theme = "ananke"
 SectionPagesMenu = "main"
+[params]
 twitter = "https://twitter.com/t4ostra"
